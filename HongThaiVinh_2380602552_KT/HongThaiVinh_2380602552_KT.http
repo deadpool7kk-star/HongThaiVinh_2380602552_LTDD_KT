@@ -1,6 +1,0 @@
-@HongThaiVinh_2380602552_KT_HostAddress = http://localhost:5058
-
-GET {{HongThaiVinh_2380602552_KT_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
